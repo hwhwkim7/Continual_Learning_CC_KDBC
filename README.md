@@ -1,7 +1,5 @@
-# Conintual learning with the Collapsed Coreness problem
-This algorithm is described in the following papaer:
-- Enhancing User Engagement through Network Coreness via Continual Learning
-  (연속학습을 통한 네트워크 최소 코어-중심성을 이용한 유저 참여도 강화)
+# Enhancing User Engagement through Network Coreness via Continual Learning
+- 연속학습을 통한 네트워크 최소 코어-중심성을 이용한 유저 참여도 강화
 
 ## How to use
 
